@@ -1,6 +1,6 @@
 # Web Push Server
 
-HTTP API made with Nodejs to send web push notifications using [web push](https://www.npmjs.com/package/web-push) library.
+HTTP API made with Nodejs and Express to send web push notifications using [web push](https://www.npmjs.com/package/web-push) library.
 
 This repository wants to be a starting point for your implementation of [web push notifications](https://developers.google.com/web/fundamentals/push-notifications/) for your web apps.  
 The target of this is to let you store on your web app just a id for each user you can use with this api to send him a push message.
